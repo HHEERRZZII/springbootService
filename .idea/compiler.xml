@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBootService" options="-parameters" />
+      <module name="SpringBootService" options="" />
     </option>
   </component>
 </project>
